@@ -3,7 +3,7 @@
 function PassCheck(){
  var num = prompt("パスワードを入力して下さい","");
 if(num == "java"){
- location.href="http://www.rakuten.ne.jp/gold/shop-name/abc/";
+ location.href="https://kenifu.github.io/";
  } else {
  alert("パスワードが間違っています。");
  }
